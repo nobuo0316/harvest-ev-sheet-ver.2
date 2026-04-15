@@ -1,0 +1,5 @@
+﻿stage,annual_yield_target_kg_per_ha,notes
+Year1,50,Very low / establishment stage
+Year2,250,Early production stage
+Year3,600,Growing production stage
+Year4Plus,1200,Mature production stage

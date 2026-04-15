@@ -1,0 +1,5 @@
+﻿farm_id,farm_name,manager_name,area_ha,tree_age_months,stage,region,min_daily_wage_php,regular_daily_workers,approved_budget_php,previous_year_yield_kg,previous_year_loss_rate_pct,budget_approver
+FARM-001,Davao Demo Farm,Manager A,10.0,10,Year1,Davao,515,15,850000,0,0.0,Mr. Sotomoto
+FARM-002,GenSan Demo Farm,Manager B,12.0,22,Year2,GenSan,443,15,900000,1800,4.5,Mr. Sotomoto
+FARM-003,Tawi-Tawi Demo Farm,Manager C,15.0,30,Year3,Tawi-Tawi,376,15,1100000,5200,5.2,Mr. Sotomoto
+FARM-004,Mature Demo Farm,Manager D,20.0,48,Year4Plus,Davao,515,15,1450000,21000,6.0,Mr. Sotomoto

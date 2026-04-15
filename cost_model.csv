@@ -1,0 +1,45 @@
+﻿stage,cost_item,annual_standard_php_per_ha,seasonality_note,editable
+Year1,Land Preparation,18000,Pre-planting,True
+Year1,Planting,12000,At establishment,True
+Year1,Replanting,5000,As needed,True
+Year1,Weeding,9000,Repeated,True
+Year1,Fertilizing,7000,Repeated,True
+Year1,Spraying,4000,As needed,True
+Year1,Water,6000,Dry season,True
+Year1,Guard / Monitoring,5000,All year,True
+Year1,Tools / Consumables,3500,All year,True
+Year1,Transport / Hauling,2500,Light,True
+Year1,Repair / Maintenance,2000,As needed,True
+Year1,Outsourcing / Misc.,3000,As needed,True
+Year2,Replanting,4000,As needed,True
+Year2,Weeding,8500,Repeated,True
+Year2,Fertilizing / Refertilizing,9000,Repeated,True
+Year2,Spraying,4500,As needed,True
+Year2,Pruning,3500,Scheduled,True
+Year2,Water,4500,Dry season,True
+Year2,Harvest Labor,5000,Light harvesting,True
+Year2,Transport / Hauling,4000,Seasonal,True
+Year2,Guard / Monitoring,5000,All year,True
+Year2,Tools / Consumables,3500,All year,True
+Year2,Repair / Maintenance,2500,As needed,True
+Year2,Outsourcing / Misc.,3000,As needed,True
+Year3,Weeding,8000,Repeated,True
+Year3,Fertilizing / Refertilizing,10000,Repeated,True
+Year3,Spraying,5000,As needed,True
+Year3,Pruning,4500,Scheduled,True
+Year3,Harvest Labor,9000,Regular harvest,True
+Year3,Transport / Hauling,6500,Seasonal,True
+Year3,Guard / Monitoring,5000,All year,True
+Year3,Tools / Consumables,4000,All year,True
+Year3,Repair / Maintenance,3000,As needed,True
+Year3,Outsourcing / Misc.,3500,As needed,True
+Year4Plus,Weeding,7500,Repeated,True
+Year4Plus,Fertilizing / Refertilizing,11000,Repeated,True
+Year4Plus,Spraying,5500,As needed,True
+Year4Plus,Pruning,5000,Scheduled,True
+Year4Plus,Harvest Labor,14000,Main harvest,True
+Year4Plus,Transport / Hauling,9000,Main harvest,True
+Year4Plus,Guard / Monitoring,5000,All year,True
+Year4Plus,Tools / Consumables,4500,All year,True
+Year4Plus,Repair / Maintenance,3500,As needed,True
+Year4Plus,Outsourcing / Misc.,4000,As needed,True
