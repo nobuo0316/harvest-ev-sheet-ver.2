@@ -304,7 +304,7 @@ def merge_annual_data(
 
     merged["growth_score"] = merged.apply(calc_growth_score, axis=1)
 
-        def calc_loss_score(row: pd.Series) -> float:
+            def calc_loss_score(row: pd.Series) -> float:
         if row["stage"] != "Year4Plus":
             return 0.0
         return clamp(100 - row.get("harvest_loss_rate_pct", 0) * 5, 0, 100)
